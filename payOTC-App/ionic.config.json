@@ -1,0 +1,7 @@
+{
+  "name": "payOTC-App",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

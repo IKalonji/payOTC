@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "payOTC-App",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
